@@ -7,4 +7,4 @@ services:
             - 80:80
         volumes:
             - ./src:/usr/share/nginx/html
-            # - ./src2:/usr/share/nginx/html
+            #- ./src2:/usr/share/nginx/html
