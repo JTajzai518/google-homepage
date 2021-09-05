@@ -1,0 +1,2 @@
+# Restart Docker Containers (aka change loaded src folder)"
+docker-compose down && docker-compose up -d --build

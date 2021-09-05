@@ -2,7 +2,7 @@
 ```
 cd /workspace
 cd google-homepage
-docker-compose up -d --build
+docker-compose down && docker-compose up -d --build
 ```
 
 # View Webpage
